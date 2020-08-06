@@ -1,4 +1,3 @@
-
 # Functions Practice: Building a Calculator
 
 
@@ -121,7 +120,7 @@ Enter second number: 3
 
 We can see how the logic set by using `if-else` statements, along with functions can be used to control the flow of the program in an easy way. Let's add more functionality to our calculator as below:
 
-> Let's try to make it a bit more interesting by introducing the behaviour of a real calculator so our users can choose to either continue with calculations OR exit the system. Users gets this functionality by pressing `y` for yes and `n` for no towards continuation.
+> Let's try to make it a bit more interesting by introducing the behaviour of a real calculator so our users can choose to either continue with calculations OR exit the system. Users get this functionality by pressing `y` for yes and `n` for no towards continuation.
 
 ## Example interface
 
